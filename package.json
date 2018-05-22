@@ -1,0 +1,11 @@
+{
+  "name": "terminat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marianmoldovan/terminat.git",
+  "author": "beeva-marianmoldovan <marian.claudiu@beeva.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
